@@ -323,14 +323,14 @@ ul {
     bottom: 0; 
     left: 30%;
     border: none;
-    background: url('image/left.png') 0 0 / 100% no-repeat;
+    background: url('left.png') 0 0 / 100% no-repeat;
 }
 
 .container-events .slick-arrow.slick-next{
     right: 30%;
     bottom: 0; 
     border: none;
-    background: url('image/right.png') 0 0 / 100% no-repeat;
+    background: url('right.png') 0 0 / 100% no-repeat;
 }
 
 .container-events .slick-arrow.slick-prev:hover,
