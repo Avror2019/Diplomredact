@@ -1,0 +1,11 @@
+.timer{
+    max-width: 350px;
+    background-color: aqua;
+}
+
+#demo,
+.timer-text {
+    text-align: center;
+    font-size: 30px;
+    margin-top: 0px;
+}

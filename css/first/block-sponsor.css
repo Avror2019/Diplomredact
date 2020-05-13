@@ -1,0 +1,32 @@
+ .section-sponsors{
+    background-color: rgb(236, 245, 158);
+}
+
+.sponsors-container{
+    max-width: 1230px;
+    margin: 0 auto;
+}
+
+.div-span-sponsors{
+    text-align: center;
+    padding-top: 35px;
+    font-size: 35px;
+}
+
+ .sponsors-logo{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+
+.logo-images img{
+    width: 250px;
+    background-repeat: no-repeat;
+    background-size: cover;
+} 
+
+
+
+
